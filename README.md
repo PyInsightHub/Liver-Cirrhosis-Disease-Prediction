@@ -1,41 +1,37 @@
-# 🩺 Liver Cirrhosis Disease Prediction
-## 📌 Project Overview
-**This project focuses on predicting the stage of Liver Cirrhosis (No Cirrhosis, Compensated, or Decompensated) using clinical and lifestyle data. By utilizing machine learning, the goal is to provide a reliable tool for early diagnosis and disease management based on critical medical markers.**
+# 🩺 **𝙻𝚒𝚟𝚎𝚛 𝙲𝚒𝚛𝚛𝚑𝚘𝚜𝚒𝚜 𝙳𝚒𝚜𝚎𝚊𝚜𝚎 𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗**
+## 📌 **𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠**
+**𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚜 𝚘𝚗 𝚙𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚝𝚊𝚐𝚎 𝚘𝚏 𝙻𝚒𝚟𝚎𝚛 𝙲𝚒𝚛𝚛𝚑𝚘𝚜𝚒𝚜 (𝙽𝚘 𝙲𝚒𝚛𝚛𝚑𝚘𝚜𝚒𝚜, 𝙲𝚘𝚖𝚙𝚎𝚗𝚜𝚊𝚝𝚎𝚍, 𝚘𝚛 𝙳𝚎𝚌𝚘𝚖𝚙𝚎𝚗𝚜𝚊𝚝𝚎𝚍) 𝚞𝚜𝚒𝚗𝚐 𝚌𝚕𝚒𝚗𝚒𝚌𝚊𝚕 𝚊𝚗𝚍 𝚕𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 𝚍𝚊𝚝𝚊. 𝙱𝚢 𝚞𝚝𝚒𝚕𝚒𝚣𝚒𝚗𝚐 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚝𝚑𝚎 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚝𝚘 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎 𝚝𝚘𝚘𝚕 𝚏𝚘𝚛 𝚎𝚊𝚛𝚕𝚢 𝚍𝚒𝚊𝚐𝚗𝚘𝚜𝚒𝚜 𝚊𝚗𝚍 𝚍𝚒𝚜𝚎𝚊𝚜𝚎 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚊𝚜𝚎𝚍 𝚘𝚗 𝚌𝚛𝚒𝚝𝚒𝚌𝚊𝚕 𝚖𝚎𝚍𝚒𝚌𝚊𝚕 𝚖𝚊𝚛𝚔𝚎𝚛𝚜.**
 
-### 📊 Analysis Pipeline
-**1.** The project follows a rigorous Data Science lifecycle:
+### **📊 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎**
+**𝟷.** **𝚃𝚑𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚘𝚕𝚕𝚘𝚠𝚜 𝚊 𝚛𝚒𝚐𝚘𝚛𝚘𝚞𝚜 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚕𝚒𝚏𝚎𝚌𝚢𝚌𝚕𝚎:**
 
-**2.** Data Cleaning & Imputation: Handled missing values (24% in Alcohol Consumption) and addressed outliers in clinical markers.
+**𝟸.** **𝙳𝚊𝚝𝚊 𝙲𝚕𝚎𝚊𝚗𝚒𝚗𝚐 & 𝙸𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗: 𝙷𝚊𝚗𝚍𝚕𝚎𝚍 𝚖𝚒𝚜𝚜𝚒𝚗𝚐 𝚟𝚊𝚕𝚞𝚎𝚜 (𝟸𝟺% 𝚒𝚗 𝙰𝚕𝚌𝚘𝚑𝚘𝚕 𝙲𝚘𝚗𝚜𝚞𝚖𝚙𝚝𝚒𝚘𝚗) 𝚊𝚗𝚍 𝚊𝚍𝚍𝚛𝚎𝚜𝚜𝚎𝚍 𝚘𝚞𝚝𝚕𝚒𝚎𝚛𝚜 𝚒𝚗 𝚌𝚕𝚒𝚗𝚒𝚌𝚊𝚕 𝚖𝚊𝚛𝚔𝚎𝚛𝚜.**
 
-**3.** EDA & Visualization: Analyzed class distributions and visualized correlations between features like Bilirubin, MELD Score, and Albumin.
+**𝟹.** **𝙴𝙳𝙰 & 𝚅𝚒𝚜𝚞𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗: 𝙰𝚗𝚊𝚕𝚢𝚣𝚎𝚍 𝚌𝚕𝚊𝚜𝚜 𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚟𝚒𝚜𝚞𝚊𝚕𝚒𝚣𝚎𝚍 𝚌𝚘𝚛𝚛𝚎𝚕𝚊𝚝𝚒𝚘𝚗𝚜 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 𝚕𝚒𝚔𝚎 𝙱𝚒𝚕𝚒𝚛𝚞𝚋𝚒𝚗, 𝙼𝙴𝙻𝙳 𝚂𝚌𝚘𝚛𝚎, 𝚊𝚗𝚍 𝙰𝚕𝚋𝚞𝚖𝚒𝚗.**
 
-**4.** Feature Engineering: Developed a Comorbidity_Score and applied standard scaling to numerical inputs.
+**𝟺.** **𝙵𝚎𝚊𝚝𝚞𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐: 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚊 𝙲𝚘𝚖𝚘𝚛𝚋𝚒𝚍𝚒𝚝𝚢_𝚂𝚌𝚘𝚛𝚎 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚒𝚎𝚍 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍 𝚜𝚌𝚊𝚕𝚒𝚗𝚐 𝚝𝚘 𝚗𝚞𝚖𝚎𝚛𝚒𝚌𝚊𝚕 𝚒𝚗𝚙𝚞𝚝𝚜.**
 
-**5.** Model Development: Evaluated multiple classifiers including Logistic Regression, Gradient Boosting, and Random Forest.
+**𝟻.** **𝙼𝚘𝚍𝚎𝚕 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝: 𝙴𝚟𝚊𝚕𝚞𝚊𝚝𝚎𝚍 𝚖𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚌𝚕𝚊𝚜𝚜𝚒𝚏𝚒𝚎𝚛𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝙻𝚘𝚐𝚒𝚜𝚝𝚒𝚌 𝚁𝚎𝚐𝚛𝚎𝚜𝚜𝚒𝚘𝚗, 𝙶𝚛𝚊𝚍𝚒𝚎𝚗𝚝 𝙱𝚘𝚘𝚜𝚝𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚁𝚊𝚗𝚍𝚘𝚖 𝙵𝚘𝚛𝚎𝚜𝚝.**
 
-### 🏆 Key Results
-* Best Model: Random Forest Classifier.
+### **🏆 𝙺𝚎𝚢 𝚁𝚎𝚜𝚞𝚕𝚝𝚜**
+* **𝙱𝚎𝚜𝚝 𝙼𝚘𝚍𝚎𝚕: 𝚁𝚊𝚗𝚍𝚘𝚖 𝙵𝚘𝚛𝚎𝚜𝚝 𝙲𝚕𝚊𝚜𝚜𝚒𝚏𝚒𝚎𝚛.**
+* **𝙰𝚌𝚌𝚞𝚛𝚊𝚌𝚢: 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚍 𝟷𝟶𝟶% 𝚊𝚌𝚌𝚞𝚛𝚊𝚌𝚢 𝚘𝚗 𝚝𝚑𝚎 𝚝𝚎𝚜𝚝 𝚜𝚎𝚝.**
+* **𝚁𝚎𝚕𝚒𝚊𝚋𝚒𝚕𝚒𝚝𝚢: 𝚅𝚊𝚕𝚒𝚍𝚊𝚝𝚎𝚍 𝚟𝚒𝚊 𝟻-𝙵𝚘𝚕𝚍 𝙲𝚛𝚘𝚜𝚜-𝚅𝚊𝚕𝚒𝚍𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚊 𝚖𝚎𝚊𝚗 𝚊𝚌𝚌𝚞𝚛𝚊𝚌𝚢 𝚘𝚏 𝟶.𝟿𝟿 (±𝟶.𝟶𝟸), 𝚎𝚗𝚜𝚞𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚖𝚘𝚍𝚎𝚕 𝚐𝚎𝚗𝚎𝚛𝚊𝚕𝚒𝚣𝚎𝚜 𝚠𝚎𝚕𝚕 𝚝𝚘 𝚞𝚗𝚜𝚎𝚎𝚗 𝚍𝚊𝚝𝚊.**
+* **𝙲𝚕𝚒𝚗𝚒𝚌𝚊𝚕 𝙳𝚛𝚒𝚟𝚎𝚛𝚜: 𝚃𝚑𝚎 𝚝𝚘𝚙 𝚙𝚛𝚎𝚍𝚒𝚌𝚝𝚘𝚛𝚜 𝚒𝚍𝚎𝚗𝚝𝚒𝚏𝚒𝚎𝚍 𝚠𝚎𝚛𝚎 𝙼𝙴𝙻𝙳_𝚂𝚌𝚘𝚛𝚎, 𝙱𝚒𝚕𝚒𝚛𝚞𝚋𝚒𝚗, 𝚊𝚗𝚍 𝙿𝚕𝚊𝚝𝚎𝚕𝚎𝚝_𝙲𝚘𝚞𝚗𝚝.**
 
-* Accuracy: Achieved 100% accuracy on the test set.
+### **🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔**
+* **𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: 𝙿𝚢𝚝𝚑𝚘𝚗**
+* **𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜: 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝙿𝚢, 𝚂𝚌𝚒𝚔𝚒𝚝-𝙻𝚎𝚊𝚛𝚗, 𝙼𝚊𝚝𝚙𝚕𝚘𝚝𝚕𝚒𝚋, 𝚂𝚎𝚊𝚋𝚘𝚛𝚗**
+* **𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝: 𝙹𝚞𝚙𝚢𝚝𝚎𝚛 𝙽𝚘𝚝𝚎𝚋𝚘𝚘𝚔 / 𝙶𝚘𝚘𝚐𝚕𝚎 𝙲𝚘𝚕𝚊𝚋**
 
-* Reliability: Validated via 5-Fold Cross-Validation with a mean accuracy of 0.99 (±0.02), ensuring the model generalizes well to unseen data.
+### **📂 𝙳𝚊𝚝𝚊𝚜𝚎𝚝**
 
-* Clinical Drivers: The top predictors identified were MELD_Score, Bilirubin, and Platelet_Count.
+**𝚃𝚑𝚎 𝚍𝚊𝚝𝚊𝚜𝚎𝚝 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚜 𝟷𝟶𝟶 𝚙𝚊𝚝𝚒𝚎𝚗𝚝 𝚛𝚎𝚌𝚘𝚛𝚍𝚜 𝚠𝚒𝚝𝚑 𝟹𝟽 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚍𝚎𝚖𝚘𝚐𝚛𝚊𝚙𝚑𝚒𝚌𝚜 (𝙰𝚐𝚎, 𝙶𝚎𝚗𝚍𝚎𝚛, 𝙱𝙼𝙸), 𝚕𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 𝚏𝚊𝚌𝚝𝚘𝚛𝚜, 𝚊𝚗𝚍 𝚍𝚎𝚝𝚊𝚒𝚕𝚎𝚍 𝚌𝚕𝚒𝚗𝚒𝚌𝚊𝚕 𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚘𝚛𝚢 𝚛𝚎𝚜𝚞𝚕𝚝𝚜.**
 
-### 🛠️ Tech Stack
-* Language: Python
+### 🚀 **𝙷𝚘𝚠 𝚝𝚘 𝚁𝚞𝚗**
+**𝟷.** **𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢.**
 
-* Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+**𝟸.** **𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜: 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 -𝚛 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚖𝚎𝚗𝚝𝚜.𝚝𝚡𝚝.**
 
-* Environment: Jupyter Notebook / Google Colab
+**𝟹.** **𝙾𝚙𝚎𝚗 𝙻𝚒𝚟𝚎𝚛_𝙲𝚒𝚛𝚛𝚑𝚘𝚜𝚒𝚜_𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗.𝚒𝚙𝚢𝚗𝚋 𝚝𝚘 𝚟𝚒𝚎𝚠 𝚝𝚑𝚎 𝚏𝚞𝚕𝚕 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚊𝚗𝚍 𝚖𝚘𝚍𝚎𝚕 𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐. 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜: 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 -𝚛 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚖𝚎𝚗𝚝𝚜.𝚝𝚡𝚝.𝙾𝚙𝚎𝚗 𝙻𝚒𝚟𝚎𝚛_𝙲𝚒𝚛𝚛𝚑𝚘𝚜𝚒𝚜_𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗.𝚒𝚙𝚢𝚗𝚋 𝚝𝚘 𝚟𝚒𝚎𝚠 𝚝𝚑𝚎 𝚏𝚞𝚕𝚕 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚊𝚗𝚍 𝚖𝚘𝚍𝚎𝚕 𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐.**
 
-### 📂 Dataset
-The dataset contains 100 patient records with 37 features, including demographics (Age, Gender, BMI), lifestyle factors, and detailed clinical laboratory results.
-
-### 🚀 How to Run
-**1.** Clone the repository.
-
-**2.** Install dependencies: pip install -r requirements.txt.
-
-**3.** Open Liver_Cirrhosis_Prediction.ipynb to view the full analysis and model training. Install dependencies: pip install -r requirements.txt.
-Open Liver_Cirrhosis_Prediction.ipynb to view the full analysis and model training.
