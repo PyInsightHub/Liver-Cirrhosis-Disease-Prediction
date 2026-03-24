@@ -8,7 +8,7 @@ In clinical hepatology, identifying the transition from **compensated to decompe
 
 This project began with a simple but powerful question:
 
-> *Can machine learning replicate a specialist’s diagnostic intuition using only routine clinical data?*
+
 
 Rather than building just another predictive model, the focus was on creating a system that is **reliable, interpretable, and clinically meaningful**.
 
