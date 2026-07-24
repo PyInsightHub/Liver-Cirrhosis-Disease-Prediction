@@ -122,4 +122,87 @@
 
 𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚛𝚎𝚏𝚕𝚎𝚌𝚝𝚜 𝚖𝚢 𝚙𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚢:
 
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+## **𝐀𝐫𝐩𝐚𝐧 𝐆𝐡𝐨𝐬𝐚𝐥**
+
+**𝐉𝐮𝐧𝐢𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭**
+
+𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝙰𝙸 & 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜, 𝚊𝚗𝚍 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎.
+
+<p>
+<a href="https://github.com/PyInsightHub">
+<img src="https://img.shields.io/badge/GitHub-PyInsightHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+⭐ 𝙸𝚏 𝚢𝚘𝚞 𝚏𝚘𝚞𝚗𝚍 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚑𝚎𝚕𝚙𝚏𝚞𝚕, 𝚍𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 **𝐒𝐭𝐚𝐫 ⭐ 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲** 𝚊𝚗𝚍 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋!
+
+</div>
+
+---
+
+# 🏆 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-Expert-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/EDA-Completed-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn">
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github">
+
+</p>
+
+---
+
+## ⭐ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+𝙸𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚐𝚒𝚟𝚒𝚗𝚐 𝚒𝚝 𝚊 ⭐ 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
+
+𝙸𝚝 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚎𝚜 𝚖𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚖𝚘𝚛𝚎 𝚑𝚒𝚐𝚑-𝚚𝚞𝚊𝚕𝚒𝚝𝚢 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
+
+---
+
+## 📄 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
+
+𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚜 𝚕𝚒𝚌𝚎𝚗𝚜𝚎𝚍 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 **𝐌𝐈𝐓 𝐋𝐢𝐜𝐞𝐧𝐬𝐞**.
+
+---
+
+<div align="center">
+
+### 🚀 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬
+
+**𝐀𝐫𝐩𝐚𝐧 𝐆𝐡𝐨𝐬𝐚𝐥**
+
+</div>
+
 > **𝙳𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚒𝚜 𝚗𝚘𝚝 𝚓𝚞𝚜𝚝 𝚊𝚋𝚘𝚞𝚝 𝚖𝚘𝚍𝚎𝚕𝚜—𝚒𝚝'𝚜 𝚊𝚋𝚘𝚞𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚊𝚛𝚎 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚒𝚗𝚝𝚎𝚛𝚙𝚛𝚎𝚝𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚒𝚖𝚙𝚊𝚌𝚝𝚏𝚞𝚕 𝚒𝚗 𝚝𝚑𝚎 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍.**
