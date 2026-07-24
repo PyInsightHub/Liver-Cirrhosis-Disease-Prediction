@@ -124,7 +124,7 @@
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 𝐀𝐮𝐭𝐡𝐨𝐫
 
 <div align="center">
 
