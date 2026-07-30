@@ -1,4 +1,4 @@
-# **🩺 𝐀 𝐃𝐚𝐭𝐚-𝐃𝐫𝐢𝐯𝐞𝐧 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐭𝐢𝐜 𝐉𝐨𝐮𝐫𝐧𝐞𝐲**
+
 
 ![image alt](https://github.com/PyInsightHub/Liver-Cirrhosis-Disease-Prediction/blob/8709c52320c5dc21fefe2f02c9591ddac83767db/Liver%20Cirrhosis.png)
 
